@@ -1,0 +1,3 @@
+C:\Users\Dev\source\repos\Digital Innovation One\obj\Debug\netcoreapp3.1\Digital Innovation One.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\Digital Innovation One\obj\Debug\netcoreapp3.1\Digital Innovation One.AssemblyInfo.cs
+C:\Users\Dev\source\repos\Digital Innovation One\obj\Debug\netcoreapp3.1\Digital Innovation One.csproj.CoreCompileInputs.cache
